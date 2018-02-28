@@ -1,1 +1,1 @@
-# CHAM-block-cipher-javascritpt
+# CHAM-block-cipher-javascript
